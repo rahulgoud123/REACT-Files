@@ -1,0 +1,47 @@
+.container{
+  padding: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.product{
+  font-size: 2rem;
+  font-weight: 700;
+  color: rgb(28, 28, 231);
+  text-align: center;
+}
+.card-grid{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+}
+.image{
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+.card{
+  background-color: antiquewhite;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.info{
+  padding: 10px;
+}
+.title{
+  font-size: 1.5rem;
+  color: #333;
+}
+.desc{
+  font-size: 1rem;
+  color: #555;
+}
+.price{
+  font-size: 0.8rem;
+  color: #888;
+  font-weight: 700;
+}
+.search{
+  width: 400px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 7px;
+}

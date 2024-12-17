@@ -1,0 +1,26 @@
+[
+    {
+        "id":101,
+        "title":"image1",
+        "url":"/images/houses.jpeg"
+
+    },
+    {
+        "id":102,
+        "title":"image2",
+        "url":"/images/paris.webp"
+
+    },
+    {
+        "id":103,
+        "title":"image3",
+        "url":"/images/globe.webp"
+
+    },
+    {
+        "id":104,
+        "title":"image4",
+        "url":"/images/mountains.jpeg"
+
+    }
+]

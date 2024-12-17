@@ -1,0 +1,16 @@
+.nav-links{
+  background-color: #000;
+  color: #fff;
+}
+.ul-links{
+  list-style: none;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.links{
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
